@@ -1,4 +1,4 @@
-,Flight Number,Launch Site,class,Payload Mass (kg),Booster Version,Booster Version Category
+﻿,Flight Number,Launch Site,class,Payload Mass (kg),Booster Version,Booster Version Category
 0,1,CCAFS LC-40,0,0,F9 v1.0  B0003,v1.0
 1,2,CCAFS LC-40,0,0,F9 v1.0  B0004,v1.0
 2,3,CCAFS LC-40,0,525,F9 v1.0  B0005,v1.0
@@ -25,7 +25,7 @@
 23,26,CCAFS LC-40,0,3600,F9 FT B1024,FT
 24,27,CCAFS LC-40,1,2257,F9 FT B1025.1,FT
 25,28,CCAFS LC-40,1,4600,F9 FT B1026,FT
-26,6,VAFB SLC-4E,0,500,F9 v1.1  B1003,v1.1
+26,6,VAFB SLC-4E,0,500,F9 v1.1 B1003,v1.1
 27,21,VAFB SLC-4E,0,553,F9 v1.1 B1017,v1.1
 28,29,VAFB SLC-4E,1,9600,F9 FT B1029.1,FT
 29,37,VAFB SLC-4E,1,9600,F9 FT B1036.1,FT
