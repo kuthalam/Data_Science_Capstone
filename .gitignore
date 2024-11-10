@@ -1,0 +1,2 @@
+# Exclude the final powerpoint that is way too large
+*.pptx

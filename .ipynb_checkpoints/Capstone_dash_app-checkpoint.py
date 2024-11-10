@@ -71,12 +71,14 @@ def get_pie_chart(entered_site):
         fig = px.pie(filtered_df, values="class",
         names="Launch Site",
         title="Success Percentages By Launch Site")
+        fig.update_traces(textfont_size=20)
     else:
         filtered_df = spacex_df[spacex_df["Launch Site"] == entered_site]
         filtered_df = filtered_df["class"].value_counts()
         fig = px.pie(filtered_df, values=filtered_df.values.flatten(),
         names=filtered_df.index,
         title="Success and Failure Counts at " + entered_site)
+        fig.update_traces(textfont_size=20)
     
     return fig
 
